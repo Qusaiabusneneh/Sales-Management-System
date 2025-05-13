@@ -1,0 +1,9 @@
+C:\Users\pro19\source\repos\Sales Management.App\Busniess Layer\bin\Debug\Busniess Layer.dll
+C:\Users\pro19\source\repos\Sales Management.App\Busniess Layer\bin\Debug\Busniess Layer.pdb
+C:\Users\pro19\source\repos\Sales Management.App\Busniess Layer\bin\Debug\Data Access Layer.dll
+C:\Users\pro19\source\repos\Sales Management.App\Busniess Layer\bin\Debug\Data Access Layer.pdb
+C:\Users\pro19\source\repos\Sales Management.App\Busniess Layer\obj\Debug\Busniess Layer.csproj.AssemblyReference.cache
+C:\Users\pro19\source\repos\Sales Management.App\Busniess Layer\obj\Debug\Busniess Layer.csproj.CoreCompileInputs.cache
+C:\Users\pro19\source\repos\Sales Management.App\Busniess Layer\obj\Debug\Busniess.99589B34.Up2Date
+C:\Users\pro19\source\repos\Sales Management.App\Busniess Layer\obj\Debug\Busniess Layer.dll
+C:\Users\pro19\source\repos\Sales Management.App\Busniess Layer\obj\Debug\Busniess Layer.pdb
