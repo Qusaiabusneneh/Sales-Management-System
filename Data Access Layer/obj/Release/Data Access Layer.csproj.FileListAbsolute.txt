@@ -1,0 +1,9 @@
+C:\Users\pro19\source\repos\Sales Management.App\Data Access Layer\bin\Release\Data Access Layer.dll
+C:\Users\pro19\source\repos\Sales Management.App\Data Access Layer\bin\Release\Data Access Layer.pdb
+C:\Users\pro19\source\repos\Sales Management.App\Data Access Layer\bin\Release\DevExpress.Data.v24.2.dll
+C:\Users\pro19\source\repos\Sales Management.App\Data Access Layer\bin\Release\DevExpress.Data.v24.2.xml
+C:\Users\pro19\source\repos\Sales Management.App\Data Access Layer\obj\Release\Data Access Layer.csproj.AssemblyReference.cache
+C:\Users\pro19\source\repos\Sales Management.App\Data Access Layer\obj\Release\Data Access Layer.csproj.CoreCompileInputs.cache
+C:\Users\pro19\source\repos\Sales Management.App\Data Access Layer\obj\Release\Data Acc.F8789B99.Up2Date
+C:\Users\pro19\source\repos\Sales Management.App\Data Access Layer\obj\Release\Data Access Layer.dll
+C:\Users\pro19\source\repos\Sales Management.App\Data Access Layer\obj\Release\Data Access Layer.pdb
